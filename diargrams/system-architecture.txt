@@ -1,1 +1,38 @@
+SYSTEM ARCHITECTURE
+
+[Input Layer]
+- Emotional signals
+- Symbolic signals
+- Associative signals
+
+        |
+        v
+
+[Boundary Layer: Consciousness]
+- Filters signals
+- Maintains identity alignment
+- Regulates permeability
+
+        |
+        v
+
+[State Variable: Clarity]
+- High clarity = high bandwidth
+- Low clarity = high noise
+
+        |
+        v
+
+[Transformation Layer: Refraction]
+- Non-linear recombination
+- Pattern formation
+- Signal amplification/suppression
+
+        |
+        v
+
+[Emergent Layer]
+- Novel ideas
+- Insights
+- Creative patterns
 
